@@ -31,7 +31,7 @@ pages/copado__*
 #Make sure you setup Copado Environment Variables to make sites config files environment agnostic.
 #Until the above is achieved, you can ignore them as follows
 
-# sites/*
+ sites/*
 # siteDotComSites/*
 
 #Documents are mostly created in Production and are not deployed between Sandboxes. You can safely ignore them in Git.
